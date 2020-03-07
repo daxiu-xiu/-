@@ -1,0 +1,40 @@
+
+.orderRefer.data-v-7b9bc6cc{
+		background-color: #f37b1d;
+		color: #ffffff;
+		width: 260rpx;
+		height: 60rpx;
+		font-size: 26rpx;
+		/* background-color: #F37B1D; */
+		/* padding: 6rpx; */
+		/* margin: 10rpx; */
+		/* color: #F8F8F8; */
+		margin-top: 30rpx;
+		/* border-radius: 6rpx; */
+}
+.POO_fotter.data-v-7b9bc6cc {
+	padding: 40rpx;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	border-radius: 30rpx;
+	background-color: #fafafa;
+	box-sizing: border-box;
+}
+.oneOrder.data-v-7b9bc6cc {
+	padding: 20rpx;
+	background-color: #fafafa;
+	margin: 20rpx 0rpx;
+}
+.siteIup.data-v-7b9bc6cc {
+	border: 1px solid #F37B1D;
+	height: 60rpx;
+}
+.btn.data-v-7b9bc6cc {
+	background-color: #f37b1d;
+	color: #ffffff;
+	width: 260rpx;
+	height: 60rpx;
+	font-size: 26rpx;
+}
+

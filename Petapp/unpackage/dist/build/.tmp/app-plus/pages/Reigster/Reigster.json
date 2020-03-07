@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "scrollIndicator": "none",
+  "statusbar": {
+    "immersed": false
+  },
+  "usingComponents": {
+    "nav": "/components/nav/Nav"
+  }
+}

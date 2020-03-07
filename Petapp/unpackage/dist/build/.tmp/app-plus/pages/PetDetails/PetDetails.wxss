@@ -1,0 +1,353 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 底部加入购物车 */
+.gwcinput {
+	border: 1px solid #ff7f50;
+	height: 60rpx;
+}
+.btn {
+	border: 1px solid #ff7f50;
+	height: 60rpx;
+	line-height: 60rpx;
+}
+.fotterleft {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.fotterAll {
+	width: 100%;
+	position: fixed;
+	bottom: 0rpx;
+}
+.optIn {
+	margin-top: 20rpx;
+	background-color: #50b7ea;
+	color: #cccccc;
+	width: 300rpx;
+	font-size: 30rpx;
+}
+.fotter {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	background-color: rgba(221, 82, 77, 0.2);
+
+	border-radius: 30rpx;
+}
+.wgctc {
+	height: 300rpx;
+	background-color: #f1f1f1;
+	border-radius: 30rpx;
+}
+.fotterleft_icon {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	color: #8f8f94;
+	font-size: 28rpx;
+	margin: 32rpx;
+}
+.fotterright {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 30rpx;
+	color: #ffffff;
+	margin-right: 20rpx;
+}
+.gwc {
+	padding: 20rpx;
+	background-color: #f0ad4e;
+}
+.gm {
+	background-color: #d5102c;
+}
+/* 详情 */
+.xaingqing {
+	color: #8f8f94;
+	margin-top: 30rpx;
+	background-color: #fafafa;
+}
+/* 发货 */
+.fahuo {
+	margin-top: 30rpx;
+	color: #8f8f94;
+	font-size: 32rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+/* 图标统一大小 */
+.imgicon {
+	width: 42rpx;
+	height: 42rpx;
+	margin-right: 16rpx;
+}
+/* 热卖 */
+.hot {
+	background-color: #d5102c;
+	padding: 10rpx;
+	color: #f5f8f9;
+	font-size: 32rpx;
+	border-radius: 14rpx;
+	margin-right: 16rpx;
+}
+/* 推荐 */
+.tuijian {
+	width: 50%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	color: #8f8f94;
+	font-size: 32rpx;
+}
+/*价格 */
+.price {
+	color: #d5102c;
+	font-size: 44rpx;
+	margin-right: 30rpx;
+}
+/*积分 */
+.jifen {
+	color: #ff4500;
+	font-size: 24rpx;
+	padding: 8rpx;
+	border-radius: 6rpx;
+	background-color: rgba(255, 165, 0, 0.4);
+	margin-right: 16rpx;
+}
+

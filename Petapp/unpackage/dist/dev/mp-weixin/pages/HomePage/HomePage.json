@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "pet-list": "/components/petList/petList",
+    "onepet-shop": "/components/onepetShop/onepetShop",
+    "more-pet-list1": "/components/morePetList/morePetList1"
+  }
+}

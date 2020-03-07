@@ -1,0 +1,81 @@
+
+.page-body.data-v-03b68f8f {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	background: #fff;
+	overflow: hidden;
+}
+.petname.data-v-03b68f8f {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	width: 70rpx;
+}
+.nav.data-v-03b68f8f {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+}
+.nav-left.data-v-03b68f8f {
+	width: 25%;
+	background: #fafafa;
+}
+.nav-left-item.data-v-03b68f8f {
+	height: 100rpx;
+	border-right: solid 1px #f1f1f1;
+	border-bottom: solid 1px #f1f1f1;
+	font-size: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.nav-left-item.data-v-03b68f8f:last-child {
+	border-bottom: none;
+}
+.nav-right.data-v-03b68f8f {
+	width: 75%;
+}
+.box.data-v-03b68f8f {
+	display: block;
+	overflow: hidden;
+	border-bottom: 20rpx solid #f3f3f3;
+	/* min-height: 100vh; */
+	/*若您的子分类过少想使得每个子分类占满屏请放开上边注视 */
+}
+.box.data-v-03b68f8f:last-child {
+	border: none;
+	min-height: 100vh;
+}
+.nav-right-item.data-v-03b68f8f {
+	width: 28%;
+	height: 220rpx;
+	float: left;
+	text-align: center;
+	padding: 11rpx;
+	font-size: 28rpx;
+	background: #fff;
+}
+.nav-right-item image.data-v-03b68f8f {
+	width: 150rpx;
+	height: 150rpx;
+}
+.active.data-v-03b68f8f {
+	color: #fafafa;
+	background: #f0ad4e;
+	border-right: 0;
+}
+.data-v-03b68f8f::-webkit-scrollbar {
+	/*取消小程序的默认导航条样式*/
+	width: 0;
+	height: 0;
+	color: transparent;
+}
+

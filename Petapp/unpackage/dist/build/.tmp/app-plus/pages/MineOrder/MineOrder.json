@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "全部订单",
+  "usingComponents": {
+    "order": "/components/Oeder/Order"
+  }
+}

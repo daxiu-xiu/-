@@ -1,0 +1,37 @@
+
+.shopcontent.data-v-ebedf914 {
+	padding: 30rpx;
+}
+.OSDtitle.data-v-ebedf914 {
+	color: #d5102c;
+	font-size: 36rpx;
+	text-decoration: underline;
+	padding-bottom: 6rpx;
+	text-underline-color: #4cd964;
+}
+.titel_img.data-v-ebedf914 {
+	margin-bottom: 20rpx;
+}
+.list.data-v-ebedf914 {
+	margin: 20rpx 0rpx;
+	padding-left: 20rpx;
+	border-left: 8rpx solid #ff4500;
+}
+.shopReferral.data-v-ebedf914 {
+	color: #999999;
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	margin-bottom: 30rpx;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+.oneShopList.data-v-ebedf914{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+

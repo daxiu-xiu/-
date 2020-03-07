@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "搜索",
+  "usingComponents": {
+    "onepet": "/components/onepet/Onepet",
+    "onepet-shop": "/components/onepetShop/onepetShop"
+  }
+}

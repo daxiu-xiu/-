@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "onepet": "/components/onepet/Onepet",
+    "uni-countdown": "/components/uni-countdown/uni-countdown"
+  },
+  "component": true
+}

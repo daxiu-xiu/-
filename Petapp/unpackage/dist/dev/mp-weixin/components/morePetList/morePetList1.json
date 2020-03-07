@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "onepet": "/components/onepet/Onepet"
+  }
+}

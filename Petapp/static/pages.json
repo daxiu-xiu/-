@@ -1,0 +1,18 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/Login/Login",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "登录",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "全部宠物",
+  "usingComponents": {
+    "onepet": "/components/onepet/Onepet"
+  }
+}

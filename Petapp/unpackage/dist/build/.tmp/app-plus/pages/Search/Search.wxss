@@ -1,0 +1,50 @@
+
+.searchChoose {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	background-color: #d5102c;
+	padding: 20rpx 0rpx;
+}
+.searchText {
+	width: 50%;
+	text-align: center;
+	color: #fafafa;
+	text-decoration: underline;
+}
+.swiper {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.searchTopBox {
+	width: 100%;
+	background-color: #d5102c;
+	height: 100rpx;
+	box-sizing: border-box;
+	padding-top: 15rpx;
+}
+.searchBoxIcon {
+	font-size: 40rpx;
+	margin-top: 20rpx;
+	margin-left: 20rpx;
+	float: left;
+}
+.searchBoxIpt {
+	height: 70rpx;
+	line-height: 70rpx;
+	margin-left: 20rpx;
+	float: left;
+}
+.searchBoxRadius {
+	width: 90%;
+	height: 70rpx;
+	background-color: #fff;
+	margin-left: 5%;
+	overflow: hidden;
+	border-radius: 35rpx;
+}
+

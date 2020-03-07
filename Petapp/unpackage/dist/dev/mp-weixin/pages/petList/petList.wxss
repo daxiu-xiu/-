@@ -1,0 +1,24 @@
+
+.paixu.data-v-46e83f56 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.paixuText.data-v-46e83f56 {
+	width: 50%;
+	text-align: center;
+	background-color: #d5102c;
+	color: #f5f8f9;
+	text-decoration: underline;
+}
+.petlistContent.data-v-46e83f56 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+

@@ -1,0 +1,27 @@
+
+.ordercontentOne.data-v-33165ecc {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.ordercontent.data-v-33165ecc {
+	padding: 10rpx 30rpx;
+	margin-bottom: 30rpx;
+	background-color: rgba(220, 20, 60, 0.1);
+	color: #616066;
+	font-size: 28rpx;
+	border-radius: 20rpx;
+}
+.ondertext.data-v-33165ecc {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+

@@ -1,0 +1,1 @@
+<view><block wx:for="{{shopDataAndpet}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view><onepet-shop vue-id="{{'1-'+index}}" shopData="{{item}}" bind:__l="__l"></onepet-shop></view></block></view>

@@ -1,0 +1,36 @@
+
+.onepetImg.data-v-5ef46305 {
+	width: 100px;
+	height: 100px;
+}
+.onepetContent.data-v-5ef46305 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	width: 110px;
+	font-size: 22rpx;
+}
+.price.data-v-5ef46305 {
+	color: #d5102c;
+}
+.title.data-v-5ef46305 {
+	width: 100%;
+	text-align: center;
+	margin: 6px;
+	color: #f0ad4e;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	font-size: 26rpx;
+}
+
